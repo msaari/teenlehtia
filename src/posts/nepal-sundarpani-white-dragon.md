@@ -18,3 +18,9 @@ Nyt tarjolla olevasta valikoimasta otin valkoisen teen eli *[Nepal Sundarpani Wh
 Lehdet ovat viehättäviä, aika isoja ja pitkiä ja mukana on viehättävän hentoja vaaleita lehtiä. Näyttää valkoiselta teeltä. Haudutus sai lehdet aukeamaan kauniisti.
 
 Ohjeissa neuvottiin käyttämään 75–80 °C vettä ja hauduttamaan 2–4 minuuttia. Käytin 80-asteista vettä ja pistin haudutusajan puoliksi, eli haudutin kolme minuuttia. Tuloksena oli aika hento, vaaleankeltainen tee.
+
+![Kupillinen teetä](/images/sundarpani-white-dragon-kuppi.jpg)
+
+Entäs maku sitten? Selvästi todellakin valkoinen tee, maku on mieto, mutta siinä on jotain kiinnostavaa. Ensivaikutelma on siis positiivinen: kyllä tätä mieluusti juo valkoista teetä kaivatessaan.
+
+Kovin tarkkaan Take-T ei tuottajista kerro, mikä on vähän harmillista, mutta ilmeisesti nämäkin teet tulevat Nepalin itäosista. Rajan toisella puolella Intiassa on Sikkim ja Länsi-Bengali. Länsi-Bengalissa lähellä Nepalin rajaa sijaitsee Darjeeling, eli sinänsä ollaan hyvillä teenkasvatusseuduilla.
