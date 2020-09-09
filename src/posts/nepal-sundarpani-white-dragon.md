@@ -13,7 +13,7 @@ Nyt tarjolla olevasta valikoimasta otin valkoisen teen eli *[Nepal Sundarpani Wh
 
 50 g pussi maksoi 7 €, eli hinta oli aivan kohtuullinen.
 
-![Teelehtiä](/images/sundarpani-white-dragon.jpg)
+![Teenlehtiä](/images/sundarpani-white-dragon.jpg)
 
 Lehdet ovat viehättäviä, aika isoja ja pitkiä ja mukana on viehättävän hentoja vaaleita lehtiä. Näyttää valkoiselta teeltä. Haudutus sai lehdet aukeamaan kauniisti.
 
@@ -22,5 +22,11 @@ Ohjeissa neuvottiin käyttämään 75–80 °C vettä ja hauduttamaan 2–4 minu
 ![Kupillinen teetä](/images/sundarpani-white-dragon-kuppi.jpg)
 
 Entäs maku sitten? Selvästi todellakin valkoinen tee, maku on mieto, mutta siinä on jotain kiinnostavaa. Ensivaikutelma on siis positiivinen: kyllä tätä mieluusti juo valkoista teetä kaivatessaan.
+
+Testasin useamman haudutuksen samoista lehdistä. Hyvin toimi, värin keltaisuus vähän vahvistuin, maku pysyi oikein maukkaana.
+
+Teenlehdet auenneina parin haudutuksen jälkeen:
+
+![Teenlehtiä haudutuksen jälkeen](/images/sundarpani-white-dragon-lehdet.jpg)
 
 Kovin tarkkaan Take-T ei tuottajista kerro, mikä on vähän harmillista, mutta ilmeisesti nämäkin teet tulevat Nepalin itäosista. Rajan toisella puolella Intiassa on Sikkim ja Länsi-Bengali. Länsi-Bengalissa lähellä Nepalin rajaa sijaitsee Darjeeling, eli sinänsä ollaan hyvillä teenkasvatusseuduilla.
