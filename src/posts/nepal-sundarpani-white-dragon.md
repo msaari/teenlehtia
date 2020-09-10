@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Ensimaku: Nepal Sundarpani White Dragon"
+title: Nepal Sundarpani White Dragon
 socialImage: /images/sundarpani-white-dragon.jpg
 date: 2020-09-09T09:25:47.375Z
 tags:
