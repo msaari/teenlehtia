@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Teetilaus syyskuussa 2020
-date: 2020-09-30T13:54:00.000Z
+date: 2020-09-30T11:30:33.887Z
 tags:
   - tilaus
 ---
