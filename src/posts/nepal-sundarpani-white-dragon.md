@@ -7,7 +7,7 @@ tags:
   - valkoinen
   - Nepal
 ---
-Take-T mainosti saaneensa valikoimiinsa uusia nepalilaisia teelaatuja. Piti tarttua, sillä nepalilaisista oli jo aikaisemmin hyviä kokemuksia. Mustan teen puolella Take-T:n myymä *[Nepal Koocu Sakhejung Golden Tea Organic](https://take-t.fi/products/copy-of-nepal-jun-chiyabari-sf-handrolled-tips-organic)* on nimittäin aivan erinomaista ja lisäksi reilusti tuotettua.
+Take-T mainosti saaneensa valikoimiinsa uusia nepalilaisia teelaatuja. Piti tarttua, sillä nepalilaisista oli jo aikaisemmin hyviä kokemuksia. Mustan teen puolella Take-T:n myymä *[Nepal Koocu Sakhejung Golden Tea Organic](https://take-t.fi/products/nepal-koocu-sakhejung-golden-tea-organic)* on nimittäin aivan erinomaista ja lisäksi reilusti tuotettua.
 
 Nyt tarjolla olevasta valikoimasta otin valkoisen teen eli *[Nepal Sundarpani White Dragonin](https://take-t.fi/products/copy-of-nepal-sundarpani-flowery-red-fruit-black-tea)*, koska mielenkiintoni on viime aikoina enemmän siihen suuntaan kallellaan. Muuten tarjolla oli vain mustia teelaatuja; joku vihreäkin olisi ollut mielenkiintoinen.
 
