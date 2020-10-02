@@ -19,7 +19,7 @@
     }
 
     a:not([class]) {
-      color: var(--color-dark);
+      color: var(--color-theme-highlight);
       position: relative;
       border-bottom: 0.15rem solid var(--color-theme-highlight);
       padding: 0.2rem 0.4rem 0.3rem 0.4rem;
