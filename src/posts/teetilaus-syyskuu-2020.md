@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Teetilaus syyskuussa 2020
 date: 2020-09-30T11:30:33.887Z
+socialImage: /images/teetilaus.jpg
 tags:
   - tilaus
 ---
@@ -18,3 +19,7 @@ Esimerkiksi Taiwanissa, josta on kotoisin *[Formosa Oolong Fancy King](https://t
 Jatkan myös japanilaiseen teehen tutustumista *[Japan Kabusecha Orihime Organicilla](https://take-t.fi/products/japan-kabusecha-orihime-organic)*. Tämä on [kabuse-teetä](https://en.wikipedia.org/wiki/Kabuse_tea), joka on kolmen Japanin arvokkaimman teelaadun joukossa (muut ovat *sencha* ja *gyokuro*). Kabuse on gyokuron (ja joidenkin senchojen) tapaan varjostettua teetä, eli osan kasvatusvaiheesta tee on viettänyt varjon alla. Kabuse on kasvatusmenetelmä, eli periaatteessa kabuse-menettelyllä kasvatetusta teestä voidaan sitten tehdä vaikka millaista teetä. Tässä on nyt tavallista vihreää teetä.
 
 (Orihime, 織姫, on suomeksi "kutojaprinsessa", ja liittyy japanilaiseen [Tanabata-juhlaan](https://en.wikipedia.org/wiki/Tanabata)).
+
+**Päivitys 2.10.2020**: Tilaus saapui ripeästi ja mikä ilahduttavinta, tilauksen mukaan oli nakattu pieni 10 gramman maistiaispussi *[Yunnan Assamica Golden Needleä](https://take-t.fi/products/yunnan-assamica-gold-needle-black-tea-2019)*. Tämähän on nyt sitten kiinalaista teetä, mutta lahjateetä ei suuhun katsota, mutta teenlehtiin kylläkin, ja onpas hauskan neulasmaisia teenlehtiä! Näyttää todella hauskalta, raportoidaan sitten miltä maistuu.
+
+![Teetilaus](/images/teetilaus.jpg)
