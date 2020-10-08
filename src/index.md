@@ -6,7 +6,8 @@ postsHeading: Uusimmat
 archiveButtonText: Katso kaikki
 socialImage: ""
 ---
-Pieni ja hiljainen teeaiheinen blogi, jossa fiilistellään teeostoksia, esitellään maisteltuja teelaatuja ja mitä ikinä nyt teestä mieleen tulee. 
+Pieni ja hiljainen teeaiheinen blogi, jossa fiilistellään teeostoksia, esitellään maisteltuja teelaatuja ja mitä ikinä nyt teestä mieleen tulee.
 
 Teenjuojana olen keskitason snobi: tarkka lämpötiloista ja haudutusajoista, pääasiassa innostunut maustamattomasta irtoteestä ja valmis maksamaan teestä hintoja, joita keskivertokansalainen kauhistelee. Rajani kuitenkin minunkin snobbailullani ja tarvittaessa juon *Tiikerin päiväunta* ja *Keisarin morsianta* siinä missä muutkin. Kahvia en ikinä, sentään.
 
+Jos on asiaa teehen liittyen, [yhteydenottolomake](https://docs.google.com/forms/d/e/1FAIpQLSeVAgyCLCHXqBmS8G0BKFCcQOHF8d3jILp9EOi2QgCiiMeHXw/viewform?usp=sf_link) palvelee.

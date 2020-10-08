@@ -6,6 +6,8 @@
           <article class="[ site-foot__details ] [ sf-flow measure-compact ]">
             <h2 class="font-base text-600">{{ site.name }}</h2>
             {{ site.shortDesc | markdownFilter | safe }}
+
+            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVAgyCLCHXqBmS8G0BKFCcQOHF8d3jILp9EOi2QgCiiMeHXw/viewform?usp=sf_link">Ota yhteyttä</a>.</p>
           </article>
         </div>
       {% endif %}
@@ -17,7 +19,8 @@
     </div>
     {% if site.showThemeCredit %}
       <p class="[ site-foot__credit ] [ pad-top-900 ]">
-        Powered by the <a href="https://hylia.website" rel="external">Hylia Eleventy Starter Kit v{{ pkg.version }}</a>. Icons made by <a href="https://www.flaticon.com/authors/ddara" title="dDara">dDara</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+        Powered by the <a href="https://hylia.website" rel="external">Hylia Eleventy Starter Kit v{{ pkg.version }}</a>.
+        Icons made by <a href="https://www.flaticon.com/authors/ddara" title="dDara">dDara</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
       </p>
     {% endif %}
   </div>
