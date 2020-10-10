@@ -1,4 +1,4 @@
 ---
-title: 'Posts Archive'
+title: 'Arkisto'
 layout: 'layouts/archive.njk'
 ---
