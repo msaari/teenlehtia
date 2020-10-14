@@ -25,6 +25,9 @@ permalink: '/feed.xml'
     <content type="html"><![CDATA[
       {{ post.templateContent | safe }}
     ]]></content>
+    <description type="html"><![CDATA[
+      {{ post.templateContent | safe }}
+    ]]></description>
   </entry>
 	{% endfor %}
 </feed>
