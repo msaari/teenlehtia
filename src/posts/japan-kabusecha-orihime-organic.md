@@ -5,8 +5,9 @@ socialImage: /images/kabusecha-lehdet.jpg
 date: 2020-10-02T07:37:00.000Z
 tags:
   - vihreä
+  - sencha
   - Japani
-  - Kabusecha
+  - kabusecha
 ---
 Jatkan japanilaisten teelaatujen kartoittamista. Tämä Take-T:n valikoimista löytyvä *[Japan Kabusecha Orihime Organic](https://take-t.fi/products/japan-kabusecha-orihime-organic)* on lajiltaan *kabusechaa* eli kabuse-teetä. Japaniksi *kabusecha* eli かぶせ茶 tai 冠茶 tarkoittaa peitettyä tai varjostettua teetä. *Kabuseru* (かぶせる) tarkoittaa varjostamista tai peittämistä ja siitä nimi: tätä teetä on kasvatusprosessin aikana varjostettu 2–25 päivää.
 
