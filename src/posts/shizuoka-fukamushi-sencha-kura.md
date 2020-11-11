@@ -24,7 +24,7 @@ Ensimmäisen kupillisen väri on kellertävä, myöhemmissä kupillisissa mennä
 
 ![Kupillinen Shizuoka Fukamushi Sencha Kura -teetä](/images/shizuoka-fukamushi-sencha-kura-kuppi.jpg)
 
-100 gramman hinta jää niukasti alle 20 euron, joten vähänhän tämä on kalliimmanpuoleista. Mutta on hyvääkin! Hinta on kuitenkin selvästi edullisempi kuin vaikka [varjostetulla *shinzalla*](/posts/shincha-kabuse-yabukita-2020/) tai *[Orihime-kabusechalla](/posts/japan-kabusecha-orihime-organic/)*, joten siihen nähden ei valittamista.
+100 gramman hinta jää niukasti alle 20 euron, joten vähänhän tämä on kalliimmanpuoleista. Mutta on hyvääkin! Hinta on kuitenkin selvästi edullisempi kuin vaikka [varjostetulla *shinchalla*](/posts/shincha-kabuse-yabukita-2020/) tai *[Orihime-kabusechalla](/posts/japan-kabusecha-orihime-organic/)*, joten siihen nähden ei valittamista.
 
 Pidän *senchasta* kovasti ja aion jatkaa tutkimusmatkailua japanilaisen vihreän teen maailmassa. En siis tiedä, koska palaan tämän teen pariin. Voisin kuitenkin hyvin nähdä palaavani, kyllä tämä sen verran maukas tee on.
 
