@@ -23,7 +23,7 @@ En ole kokeillut, miten tämä kestää uudelleenhaudutusta. Teenlehdet varmasti
 
 ![Tarte Tatin -teetä kupissa](/images/tartetatin-kuppi.jpg)
 
-*Tarte Tatin* onkin päässyt teekokoelmani peruskalustoon. Tätä on melkein aina saatavilla ja jos pussi tyhjenee, uusi lähtee tilaukseen piakkoin suurella todennäköisyydellä. Juuri muita maustettuja valkoisia tai vihreitä teitä en sitten juokaan, oolongeista nyt puhumattakaan, muuten maustetut teet ovat minulle pääasiassa mustia. Niistä tässä yhteydessä on syytä mainita Take-T:n *[Apple Pie](https://take-t.fi/products/apple-pie)*, joka on tämän *Tarte Tatinin* musta sisar, jossa on tosin mantelin ja omenan lisäksi vielä viinirypäleitä (jotka tosin käytännössä ovat lähempänä rusinoita).
+*Tarte Tatin* onkin päässyt teekokoelmani peruskalustoon. Tätä on melkein aina saatavilla ja jos pussi tyhjenee, uusi lähtee tilaukseen piakkoin suurella todennäköisyydellä. Juuri muita maustettuja valkoisia tai vihreitä teitä en sitten juokaan, oolongeista nyt puhumattakaan, muuten maustetut teet ovat minulle pääasiassa mustia. Niistä tässä yhteydessä on syytä mainita Take-T:n *[Apple Pie](/posts/apple-pie)*, joka on tämän *Tarte Tatinin* musta sisar, jossa on tosin mantelin ja omenan lisäksi vielä viinirypäleitä (jotka tosin käytännössä ovat lähempänä rusinoita).
 
 Loppuun vielä ainoa osaamani ranskankielinen vitsi, oikea *blague de papa*. Mitä Darth Vader kävi ostamassa ranskalaisesta *boulangeriesta*? No tietysti kolme leipää ja kaksi tarte Tatinia eli *pain, pain, pain, tarte Tatin, tarte Tatin*...
 
