@@ -4,7 +4,7 @@ title: Kypsä lohikäärmepallo 2019
 socialImage: /images/kypsa-lohikaarmepallo.jpg
 date: 2021-03-28T04:28:51Z
 tags:
-  - pu'er
+  - pu-er
   - Kiina
 ---
 [Teemaa-kauppa](https://teemaa.fi/) osui silmiin Instagramista ja kun sorruin tilaamaan mainoksen *banchaa*, katselin kaupasta mukaan muutakin. Pu’er-teetä on pitänyt testata jo pitkään ja löysin nämä lohikäärmepallot eli yksittäispakatut kerta-annospallerot pu'er-teetä. Sehän vaikutti oikein kelpo tavalta testata uudenlaista teetä, ilman että tarvitsee ostaa isoa ja kallista teekakkua.
