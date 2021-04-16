@@ -9,7 +9,7 @@ tags:
 ---
 Jos minun pitäisi nimetä yksi suosikkiteeni, toteaisin tehtävän liian vaikeaksi ja luovuttaisin – mutta jos nyt ihan pakko olisi, niin ehkä vaaleat oolongit voisivat olla valintani (tai varjostetut senchat). Vaalea oolong on yleisesti erittäin toimiva tee: se on maukasta, sopivan pehmeää, esteettisesti miellyttävää ja niin edelleen – siinä on paljon sellaista, mitä teeltäni kaipaan.
 
-Vaalean oolongin ykkönen minulle on ollut klassinen *[Ding Dong](/posts/formosa-jade-dong-ding/)*. Nyt kärkipaikkaa haastaa erikoisempi tulokas, vietnamilainen Four Seasons -oolong. Ostin omani [Take-T:stä](https://take-t.fi/products/oolong-vietnam-four-seasons). Take-T:n kuvauksen mukaan kyseessä on vanhoista taiwanilaisista pensaista ympäri vuoden poimittava tee, siitä siis tuo Four Seasons -nimi. Tällaista Four Seasonsia tehdään Taiwanissakin, mutta tämä tulee siis Vietnamista.
+Vaalean oolongin ykkönen minulle on ollut klassinen *[Dong Ding](/posts/formosa-jade-dong-ding/)*. Nyt kärkipaikkaa haastaa erikoisempi tulokas, vietnamilainen Four Seasons -oolong. Ostin omani [Take-T:stä](https://take-t.fi/products/oolong-vietnam-four-seasons). Take-T:n kuvauksen mukaan kyseessä on vanhoista taiwanilaisista pensaista ympäri vuoden poimittava tee, siitä siis tuo Four Seasons -nimi. Tällaista Four Seasonsia tehdään Taiwanissakin, mutta tämä tulee siis Vietnamista.
 
 ![Oolong Vietnam Four Seasons -teenlehtiä](/images/oolong-vietnam-four-seasons.jpg)
 
@@ -23,6 +23,6 @@ Itse teejuoma on varsinkin ensimmäisillä haudutuksilla erittäin haaleaa, mutt
 
 ![Kupillinen Oolong Vietnam Four Seasons -teetä](/images/oolong-vietnam-four-seasons-kuppi.jpg)
 
-Kun tämä tee maksaa vain 11,30 € sadalta grammalta, eli jonkun verran vähemmän kuin Ding Dong maksaa Take-T:llä, tätä tulen varmasti ostamaan lisääkin, sellainen teevalikoimani peruskivi tämä kevyt vihreä oolong on.
+Kun tämä tee maksaa vain 11,30 € sadalta grammalta, eli jonkun verran vähemmän kuin Dong Ding maksaa Take-T:llä, tätä tulen varmasti ostamaan lisääkin, sellainen teevalikoimani peruskivi tämä kevyt vihreä oolong on.
 
 ![Käytettyjä Oolong Vietnam Four Seasons -lehtiä](/images/oolong-vietnam-four-seasons-lehdet.jpg)
