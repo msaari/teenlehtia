@@ -24,7 +24,7 @@ Tällä siivilällä toinen haudutus onnistui paremmin ja tuotti vähän vihreä
 
 ![Kupillinen Miyazaki Sencha -teetä](/images/miyazaki-sencha-kuppi.jpg)
 
-50 gramman hinta pussi maksaa 9 euroa, eli 100 gramman hinta jää vähän alle 20 euron. Ei halpaa, ei erityisen kallistakaan.
+50 gramman pussi maksaa 9 euroa, eli 100 gramman hinta jää vähän alle 20 euron. Ei halpaa, ei erityisen kallistakaan.
 
 Hyvä *sencha*, voisin ostaa toistekin.
 
